@@ -29,7 +29,7 @@
 ### Installation
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/app_uninstaller.py -O lpm
+   (https://github.com/nuralam9922/-linux-package-master.git)
    ```
 2. Make it executable:
    ```bash
